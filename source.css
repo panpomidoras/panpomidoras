@@ -1,12 +1,12 @@
 /* CUSTOM TITLE BAR COLORS */
 /* Copy and paste this example and then changes the server name and hex color code */
 .container-1NXEtd[aria-label*=SERVER_NAME]:before {
-  --title-custom: #184c88;
+  --title-custom: #880808;
 }
 
 /* CUSTOM TITLE BAR COLORS -> DEFAULTS */
 .container-1NXEtd[aria-label*=BetterDiscord]:before {
-  --title-custom: #3b77c4;
+  --title-custom: #880808;
 }
 
 .container-1NXEtd[aria-label*=CapnKitten]:before {
